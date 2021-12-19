@@ -1,2 +1,2 @@
 # Coreternet
-A Lightweight Browser Based with Cefsharp C#
+A Lightweight Browser for Low End PCs Based with CefSharp
