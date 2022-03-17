@@ -16,4 +16,4 @@ Windows 7, Windows 8.1 (8.0 idk), Windows 10, Windows 11
 > Linux is Not Supported
 
 # Source Status
-___Closed___ will be open-source next time!
+Open-Source
