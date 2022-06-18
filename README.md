@@ -1,8 +1,14 @@
 # Coreternet
 An Lightweight Browser Created with C#
 
-# EasyTabs Installed
-Now Coreternet can Add more Tabs as much as you want **Depending to your RAM and Processor**
+# EasyTabs
+Now you can use any tabs you want **Depends to your RAM and Processor**
+
+# Min Specs
+Core 2 Duo or AMD Althon
+512MB (AMD) 1GB (C2D)
+OpenGL (DirectX Optional)
+Your Motherboard Built-In GPU (ofcourse)
 
 # Lightweightness
 Coreternet is Very Light, The Size is under 200MB
