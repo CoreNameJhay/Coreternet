@@ -12,8 +12,8 @@ The UI has Been Improved unlike V2 UI Update, The Search Bar Move to The Previou
 
 # Supported OS
 Depending to CefSharp
-Windows 7, Windows 8.1 (8.0 idk), Windows 10, Windows 11
-> Linux is Not Supported
+Windows 7, Windows 8.1, Windows 10, Windows 11 (Windows XP and Vista isn't supported anymore)
+> Linux Not Supported, Sorry
 
 # Source Status
 Open-Source
