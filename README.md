@@ -1,5 +1,5 @@
 # Coreternet
-An Lightweight Browser Created with C#
+An Lightweight Browser Created with C# (DEPRECATED)
 
 # EasyTabs
 Now you can use any tabs you want **Depends to your RAM and Processor**
